@@ -10,4 +10,4 @@
 
   Kết quả dự báo khách hàng có khả năng rời mạng cao với tỉ lệ chính xác dự báo của mô hình so với số liệu thực tế rất cao với độ chính xác (accuracy) của các giải thuật KNN, Cây quyết định, XGBoost lần lượt là 97.453%, 96.398%, 97.702%. 
 
-
+https://docs.openstack.org/devstack/latest/
